@@ -1,0 +1,4 @@
+pyserial
+adafruit-circuitpython-bme680
+adafruit-blinka
+smbus2

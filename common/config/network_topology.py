@@ -1,0 +1,11 @@
+STATION_NAMES = {
+    0: "Hub",
+    1: "N1",
+    2: "N2",
+    3: "N3",
+    4: "N4",
+}
+
+EXPECTED_FINAL_SENDER_ID = 4
+EXPECTED_STATION_IDS = {1, 2, 3, 4}
+EXPECTED_RECORD_COUNT = 4

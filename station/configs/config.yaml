@@ -1,0 +1,10 @@
+role: station
+node_id: 3
+frequency_hz: 915000000
+default_radio_mode: B_OKAY
+
+frame_length_s: 600
+slot_length_s: 90
+phase_b_start_offset_s: 420
+
+station_count: 4
